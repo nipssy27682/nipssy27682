@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nipssy27682
+- 👋 Hi, I’m @nipssy
 - 👀 I’m interested in problem solving code
 - 🌱 I’m currently learning and its been a while
 - 💞️ I’m looking to collaborate on python based projects

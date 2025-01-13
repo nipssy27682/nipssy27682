@@ -2,7 +2,8 @@
 - 👀 I’m interested in problem solving code
 - 🌱 I’m currently learning and its been a while
 - 💞️ I’m looking to collaborate on python based projects
-- 📫 call: 254113076248.   Email: nipssyantony@gmail.com
+- 📫 call: 0115867520
+- .   Email: nipssyantony@gmail.com
 
 <!---
 nipssy27682/nipssy27682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
